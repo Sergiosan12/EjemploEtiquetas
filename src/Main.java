@@ -19,5 +19,6 @@ public class Main {
         System.out.println("billetes5="+billetes5);
         moedas1=euros/1;
         System.out.println("moedas1="+moedas1);
+        //cambio
         }
     }
