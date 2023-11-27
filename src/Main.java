@@ -20,5 +20,6 @@ public class Main {
         moedas1=euros/1;
         System.out.println("moedas1="+moedas1);
         //cambio
+        //cambio para tarjeta tardía
         }
     }
