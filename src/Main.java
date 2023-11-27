@@ -21,6 +21,6 @@ public class Main {
         System.out.println("moedas1="+moedas1);
         //cambio
         //cambio para tarjeta tardía
-        //hola
+        //hola vbcasca
         }
     }
